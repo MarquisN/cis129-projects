@@ -1,3 +1,12 @@
+# Module 4 Lab-4
+# Author: Marquis Neely
+# Date: February 19, 2024
+# This program calculates as well as displays store bonus and employee bonus based on monthly sales.
+# As well as calculating the percent increase in sales, it also determines the store bonus amount according to set criteria
+# and calculates employee bonus based on percentage increase in sales. 
+# If the highest bonus amounts are achieved (store bonus amount of $600 and employee bonus of $75), it congratulates employees.
+
+
 # declare local variables
 monthlySales = 0  # monthly sales amount
 storeAmount = 0  # store bonus amount
